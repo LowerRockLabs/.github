@@ -1,0 +1,10 @@
+{
+    "name": "LRL Workflow",
+    "description": "LRL CI starter workflow.",
+    "filePatterns": [
+        "composer.json$",
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
